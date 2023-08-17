@@ -1,5 +1,5 @@
 import "./globals.css";
-import { AuthProvider } from "./Provider";
+import AuthProvider from "@/components/AuthProvider";
 
 export const metadata = {
   title: "Create Next App",
